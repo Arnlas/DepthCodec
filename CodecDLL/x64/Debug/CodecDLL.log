@@ -1,0 +1,20 @@
+﻿  ColorDecoder.cpp
+C:\Projects\CppProjects\CodecDLL\CodecDLL\Extension.h(33): warning C4091: '__declspec(dllexport)': ignored on left of 'Extensions::Params' when no variable is declared
+C:\Projects\CppProjects\CodecDLL\CodecDLL\Extension.h(39,2): warning C4091: '__declspec(dllexport)': ignored on left of 'Extensions' when no variable is declared
+  ColorEncoder.cpp
+C:\Projects\CppProjects\CodecDLL\CodecDLL\Extension.h(33): warning C4091: '__declspec(dllexport)': ignored on left of 'Extensions::Params' when no variable is declared
+C:\Projects\CppProjects\CodecDLL\CodecDLL\Extension.h(39,2): warning C4091: '__declspec(dllexport)': ignored on left of 'Extensions' when no variable is declared
+  DepthDecoder.cpp
+C:\Projects\CppProjects\CodecDLL\CodecDLL\Extension.h(33): warning C4091: '__declspec(dllexport)': ignored on left of 'Extensions::Params' when no variable is declared
+C:\Projects\CppProjects\CodecDLL\CodecDLL\Extension.h(39,2): warning C4091: '__declspec(dllexport)': ignored on left of 'Extensions' when no variable is declared
+  DepthEncoder.cpp
+C:\Projects\CppProjects\CodecDLL\CodecDLL\Extension.h(33): warning C4091: '__declspec(dllexport)': ignored on left of 'Extensions::Params' when no variable is declared
+C:\Projects\CppProjects\CodecDLL\CodecDLL\Extension.h(39,2): warning C4091: '__declspec(dllexport)': ignored on left of 'Extensions' when no variable is declared
+C:\Projects\CppProjects\CodecDLL\CodecDLL\DepthEncoder.cpp(76,37): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+  Extension.cpp
+C:\Projects\CppProjects\CodecDLL\CodecDLL\Extension.h(33): warning C4091: '__declspec(dllexport)': ignored on left of 'Extensions::Params' when no variable is declared
+C:\Projects\CppProjects\CodecDLL\CodecDLL\Extension.h(39,2): warning C4091: '__declspec(dllexport)': ignored on left of 'Extensions' when no variable is declared
+  Generating Code...
+     Creating library C:\Projects\CppProjects\CodecDLL\x64\Debug\CodecDLL.lib and object C:\Projects\CppProjects\CodecDLL\x64\Debug\CodecDLL.exp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Projects\CppProjects\CodecDLL\x64\Debug\CodecDLL.exe : fatal error LNK1120: 1 unresolved externals

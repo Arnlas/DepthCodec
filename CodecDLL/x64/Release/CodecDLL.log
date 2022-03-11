@@ -1,0 +1,10 @@
+﻿  ColorDecoder.cpp
+C:\Projects\CppProjects\CodecDLL\CodecDLL\Extension.h(35): warning C4091: '__declspec(dllexport)': ignored on left of 'Extensions::Params' when no variable is declared
+C:\Projects\CppProjects\CodecDLL\CodecDLL\Extension.h(47,2): warning C4091: '__declspec(dllexport)': ignored on left of 'Extensions' when no variable is declared
+     Creating library C:\Projects\CppProjects\CodecDLL\x64\Release\CodecDLL.lib and object C:\Projects\CppProjects\CodecDLL\x64\Release\CodecDLL.exp
+  Generating code
+  2 of 185 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CodecDLL.vcxproj -> C:\Projects\CppProjects\CodecDLL\x64\Release\CodecDLL.dll
